@@ -4,6 +4,16 @@ This is my personal notes listed for all of the subjects that I want to learn. H
 
 ## Bash
 
+### NeoVim
+
+hyperextensible Vim-based text editor
+
+To install this on a (Debian)[https://github.com/neovim/neovim/wiki/Installing-Neovim#debian] based system, type the following
+
+```bash
+sudo apt-get install neovim
+```
+
 ### SpaceVim
 
 SpaceVim is a distribution of the Vim editor that’s inspired by spacemacs. It manages collections of plugins in layers, which help collecting related packages together to provide features. 
