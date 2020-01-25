@@ -31,4 +31,8 @@ curl -sLf https://spacevim.org/install.sh | bash
 
 ## Kubernetes
 
+## VS Code
 
+Recommended Plug-ins for VS Code to help with Docker:
+
++ Docker by Microsoft
