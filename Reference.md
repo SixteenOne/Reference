@@ -36,3 +36,5 @@ curl -sLf https://spacevim.org/install.sh | bash
 Recommended Plug-ins for VS Code to help with Docker:
 
 + Docker by Microsoft
++ YAML from Redhats
++ Vim from VSCodeVims
